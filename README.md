@@ -1,16 +1,56 @@
 ### Hi there 👋
 
-<!--
-**trusted-ws/trusted-ws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software sorcerer and dabble in a bit of digital mischief. Shh, don't tell anyone! 💻🔓🧙‍♂️
+- You can reach me in murilo@bad1337.com
 
-Here are some ideas to get you started:
+<details>
+  <summary>681B 6443 37C1 8F6A B6DB  6769 1786 F7B9 0B55 8421 </summary>
+·
+ 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+Pz9c
+=4bba
+-----END PGP PUBLIC KEY BLOCK-----
+```
+  ```
+</details>
+
