@@ -51,6 +51,5 @@ Pz9c
 =4bba
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-  ```
 </details>
 
