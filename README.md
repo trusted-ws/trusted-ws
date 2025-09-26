@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a software sorcerer and dabble in a bit of digital mischief. Shh, don't tell anyone! 💻🔓🧙‍♂️
-- You can reach me in murilo@bad1337.com
+- You can reach me in murilo74@protonmail.com
 
 
 **OpenPGP Public Key (GPG) Fingerprint:**
